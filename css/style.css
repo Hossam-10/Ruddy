@@ -1,0 +1,290 @@
+*
+{
+    font-family: 'Texturina', serif;
+}
+header
+{
+    height: 650px;
+    background-image: url(../images/bg.jpg);
+    background-size: 100% 100%;
+    position: relative;
+}
+nav
+{
+    width: 70%;
+    margin: auto;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+nav ul li
+{
+    padding: 5px 40px;
+    display: inline-block;
+}
+.join
+{
+    background-color: tomato;
+    border: 1px solid transparent;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.join:hover
+{
+    text-decoration: none;
+    color: white;
+}
+.icons
+{
+    width: 90%;
+    margin: auto;
+    background-color: rgba(38, 194, 129, 0.7);
+    position: absolute;
+    bottom: 0;
+    left: 5%;
+    right: 5%;
+}
+.icons i
+{
+    display: block;
+}
+.icon
+{
+    text-align: center;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 300;
+}
+.icon p
+{
+    font-size: 20px;
+
+}
+.icon-diff
+{
+    background-color: rgba(242, 120, 75, 0.7);
+}
+.strategy hr
+{
+    width: 50%;
+    margin: auto;
+    border: 1px solid #b4b4b4;
+}
+.strategy h4
+{
+    color: #FF6138;
+}
+.about
+{
+    color: white;
+}
+.abouth
+{
+    color: gray;
+    font-weight: 300;
+}
+.ruddy
+{
+    font-weight: bold;
+}
+.about hr
+{
+    border: 1px solid white;
+}
+.about1
+{
+    background-color: rgb(4, 147, 114);
+}
+.def-height
+{
+    height: 250px;
+}
+.about2
+{
+    background-image: url(../images/about-pic1.jpg);
+    background-size: 100% 100%;
+}
+.about3
+{
+    background-image: url(../images/about-pic2.jpg);
+    background-size: 100% 100%;
+}
+.about4
+{
+    background-color: rgba(249, 105, 14, 1);
+}
+.about5
+{
+    background-color: rgb(4, 147, 114);
+}
+.about6
+{
+    background-image: url(../images/about-pic3.jpg);
+    background-size: 100% 100%;
+}
+.process
+{
+    background-image: url(../images/process-bg.jpg);
+    background-size: 100% 100%;
+    min-height: 500px;
+    height: auto;
+    color: white;
+}
+.process1
+{
+    background-image: url(../images/p-bg1.jpg);
+    height: 250px;
+    background-size: 100% 100%;
+}
+.process2
+{
+    background-image: url(../images/p-bg2.jpg);
+    height: 250px;
+    background-size: 100% 100%;
+}
+.process3
+{
+    background-image: url(../images/p-bg3.jpg);
+    height: 250px;
+    background-size: 100% 100%;
+}
+.process4
+{
+    background-image: url(../images/p-bg4.jpg);
+    height: 250px;
+    background-size: 100% 100%;
+}
+.blog
+{
+    background-color: #b4b4b4;
+}
+
+.process i
+{
+    display: block;
+}
+.blog-bg
+{
+    background-image: url(../images/b4.jpg);
+    background-size: 100% 100%;
+}
+.portfolio a
+{
+    display: inline-block;
+}
+.my-btn
+{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+}
+.btn-red
+{
+    border: 2px solid red;
+}
+.btn-yellow
+{
+    border: 2px solid yellowgreen;
+}
+.btn-grey
+{
+    border: 2px solid grey;
+}
+.btn-green
+{
+    border: 2px solid green;
+}
+.btn-d
+{
+    border: 2px solid rgba(22, 160, 133, 1);
+}
+.portpic1
+{
+    background-image: url(../images/portpic1.jpg);
+    background-size: 100% 100%;
+    height: 220px;
+}
+.portpic2
+{
+    background-image: url(../images/portpic4.jpg);
+    background-size: 100% 100%;
+    height: 220px;
+}
+.portpic3
+{
+    background-image: url(../images/portpic7.jpg);
+    background-size: 100% 100%;
+    height: 220px;
+}
+.portpic4
+{
+    background-image: url(../images/portpic2.jpg);
+    background-size: 100% 100%;
+    height: 220px;
+}
+.portpic5
+{
+    background-image: url(../images/portpic5.jpg);
+    background-size: 100% 100%;
+    height: 220px;
+}
+.portpic6
+{
+    background-image: url(../images/portpic8.jpg);
+    background-size: 100% 100%;
+    height: 220px;
+}
+.portpic7
+{
+    background-image: url(../images/portpic3.jpg);
+    background-size: 100% 100%;
+    height: 220px;
+}
+.portpic8
+{
+    background-image: url(../images/portpic6.jpg);
+    background-size: 100% 100%;
+    height: 220px;
+}
+.portpic9
+{
+    background-image: url(../images/portpic9.jpg);
+    background-size: 100% 100%;
+    height: 220px;
+}
+.work-us
+{
+    background-color: rgba(241, 90, 34, 1);
+    color: white;
+}
+.work
+{
+    width: 50%;
+    margin: auto;
+}
+.agency
+{
+    background-color: rgba(255,255,255,0.1);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.agency1
+{
+    background-color: rgba(249, 105, 14, 1);
+    height: 350px;
+} 
+.foot
+{
+    background-color: #282424;
+}
+.foot1
+{
+    width: 45%;
+}
+.mybtn
+{
+    margin-left: 50px;
+}
